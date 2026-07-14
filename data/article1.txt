@@ -1,0 +1,34 @@
+Apple sues OpenAI, two former employees for trade secrets theft
+
+ Apple (AAPL.O), opens new tab on Friday sued OpenAI and two former employees, alleging misappropriation of its trade secrets to ​benefit the ChatGPT-owner's foray into consumer hardware, a dramatic escalation of already simmering tension between the two companies.
+The complaint accuses OpenAI of orchestrating a broad effort to systematically acquire and exploit Apple's ‌confidential information through former employees, recruiting practices and supplier relationships to accelerate its push into the consumer hardware business.
+
+"We have no interest in other companies’ trade secrets," OpenAI said in a statement. "We remain focused on building innovative technology that empowers people everywhere.”
+The lawsuit sets up a battle over who will control future AI devices that may not use traditional apps or operating systems — devices which, if successful, would direct consumer attention away from Apple's best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.
+Tensions between ​the two tech companies have strained their relationship, as the race to develop AI products has intensified competition for talent and proprietary technology.
+
+"Apple sees OpenAI moving from partner to potential rival, while OpenAI is trying ​to reduce its dependence on the iPhone and build a direct relationship with consumers," said PP Foresight analyst Paolo Pescatore. "Even if the allegations are not proven, the lawsuit could ⁠delay OpenAI’s hardware ambitions and further weaken what is already becoming an increasingly fragile partnership."
+Apple's lawsuit, which was filed in the U.S. District Court for the Northern District of California, comes just after OpenAI successfully fended off a legal ​challenge from Elon Musk's xAI.
+The two former Apple employees named in the suit are Chang Liu, a former senior system electrical engineer, and former vice president of product design for iPhone and Apple Watch, Tang Yew Tan. Neither immediately ​responded to a request for comment.
+
+Apple alleged that Liu failed to return a company-issued work laptop and later used an authentication bug to access Apple's internal network, downloading "dozens of Apple's confidential hardware-related files."
+The iPhone maker also claimed that OpenAI’s hardware chief Tan had been "methodically using Apple’s confidential information to benefit OpenAI" before his departure by emailing himself information about Apple suppliers and internal industry summaries. Tan worked on the iPhone for most of his 24-year tenure at Apple, according to his LinkedIn page.
+Apple alleged that Tan encouraged Apple employees ​to bring parts from Apple to job interviews at OpenAI for “show and tell” sessions, citing an incident in its filing where one OpenAI job candidate allegedly said that he “didn’t even know we could take those from the office.”
+OpenAI ​Foundation, OpenAI Group PBC, the company's commercial arm, and io Products, which OpenAI acquired, were also named as defendants.
+
+In its complaint, Apple claimed it wrote to OpenAI in February with concerns that its confidential information was making its way to OpenAI ‌and asking to ⁠discuss the matter, but it received no reply.
+More than 400 former Apple employees now work for OpenAI, it said in its filing, adding that “it is not surprising” that some of them have knowledge of its confidential information.
+“That OpenAI now employs people who were once entrusted with Apple’s trade secrets does not entitle OpenAI to use that information to jumpstart its hardware efforts,” the iPhone maker wrote in its complaint.
+Apple also alleged that OpenAI employees sought confidential information from Apple suppliers, at one point allegedly having one of those suppliers carry out what Apple called a secret metal finishing technique on the belief that OpenAI had Apple’s permission to use the technique.
+Mark Lemley, a professor at Stanford Law School, ​said that Apple's complaint "has the potential to be a ​very big case" but that some of what Apple ⁠alleges, such as OpenAI's hiring of hundreds of Apple employees, is not illegal in California, where Silicon Valley sprang up in part thanks to state laws that allow employees leave for a competitor.
+"But if Apple's claims that the employees took confidential documents with them — and that OpenAI is using those documents — are true, that is a problem for OpenAI," Lemley ​said.
+Camilla Hrdy, a law professor at Rutgers Law School, said the case could become complex because most of the previous cases around AI and trade secrets have involved ​software rather than hardware.
+"These trade secret ⁠lawsuits are frequently brought in the tech space, and we usually learn much, much more as the case develops. OpenAI is not a defendant that can’t afford to defend itself," Hrdy said.
+SIMMERING TENSION
+A person familiar with the matter told Reuters in May that OpenAI was exploring legal options against Apple, including notifying the technology giant of a breach of contract but potentially not filing a full lawsuit.
+In 2024, Apple announced the integration of its Apple Intelligence technology across its apps including Siri and ⁠brought OpenAI's chatbot ​ChatGPT to its devices.
+Their partnership allows users to access ChatGPT results through Siri, while iPhone users can also sign up for ChatGPT memberships ​directly from the iOS settings menu.
+Apple rolled out a long-delayed overhaul of Siri last month. The update comes two years after Apple first promised major upgrades that were repeatedly delayed.
+OpenAI bought hardware startup io Products, founded by former Apple designer Jony Ive, last year in a $6.5 billion deal, in ​a push to move beyond software into consumer hardware. Ive is not named in the lawsuit.
+
+

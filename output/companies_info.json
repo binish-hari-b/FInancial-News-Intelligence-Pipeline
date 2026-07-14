@@ -1,0 +1,244 @@
+{
+    "Apple": {
+        "mentions": 1,
+        "articles": [
+            "article1.txt"
+        ],
+        "events": {
+            "Lawsuit": 1
+        },
+        "sentiments": {
+            "negative": 1
+        },
+        "co_companies": {
+            "OpenAI": 1,
+            "PP Foresight": 1
+        }
+    },
+    "OpenAI": {
+        "mentions": 2,
+        "articles": [
+            "article1.txt",
+            "article2.txt"
+        ],
+        "events": {
+            "Lawsuit": 1,
+            "Research": 1
+        },
+        "sentiments": {
+            "negative": 2
+        },
+        "co_companies": {
+            "Apple": 1,
+            "PP Foresight": 1,
+            "Meta": 1,
+            "Reuters": 1,
+            "Google": 1
+        }
+    },
+    "PP Foresight": {
+        "mentions": 1,
+        "articles": [
+            "article1.txt"
+        ],
+        "events": {
+            "Lawsuit": 1
+        },
+        "sentiments": {
+            "negative": 1
+        },
+        "co_companies": {
+            "Apple": 1,
+            "OpenAI": 1
+        }
+    },
+    "Meta": {
+        "mentions": 1,
+        "articles": [
+            "article2.txt"
+        ],
+        "events": {
+            "Research": 1
+        },
+        "sentiments": {
+            "negative": 1
+        },
+        "co_companies": {
+            "Reuters": 1,
+            "Google": 1,
+            "OpenAI": 1
+        }
+    },
+    "Reuters": {
+        "mentions": 2,
+        "articles": [
+            "article2.txt",
+            "article3.txt"
+        ],
+        "events": {
+            "Research": 1
+        },
+        "sentiments": {
+            "negative": 1,
+            "positive": 1
+        },
+        "co_companies": {
+            "Meta": 1,
+            "Google": 2,
+            "OpenAI": 1,
+            "SpaceX": 1,
+            "Anthropic": 1,
+            "Altman Solon": 1,
+            "J.P. Morgan": 1,
+            "Alphabet": 1
+        }
+    },
+    "Google": {
+        "mentions": 2,
+        "articles": [
+            "article2.txt",
+            "article3.txt"
+        ],
+        "events": {
+            "Research": 1
+        },
+        "sentiments": {
+            "negative": 1,
+            "positive": 1
+        },
+        "co_companies": {
+            "Meta": 1,
+            "Reuters": 2,
+            "OpenAI": 1,
+            "SpaceX": 1,
+            "Anthropic": 1,
+            "Altman Solon": 1,
+            "J.P. Morgan": 1,
+            "Alphabet": 1
+        }
+    },
+    "SpaceX": {
+        "mentions": 1,
+        "articles": [
+            "article3.txt"
+        ],
+        "events": {},
+        "sentiments": {
+            "positive": 1
+        },
+        "co_companies": {
+            "Anthropic": 1,
+            "Reuters": 1,
+            "Altman Solon": 1,
+            "J.P. Morgan": 1,
+            "Alphabet": 1,
+            "Google": 1
+        }
+    },
+    "Anthropic": {
+        "mentions": 1,
+        "articles": [
+            "article3.txt"
+        ],
+        "events": {},
+        "sentiments": {
+            "positive": 1
+        },
+        "co_companies": {
+            "SpaceX": 1,
+            "Reuters": 1,
+            "Altman Solon": 1,
+            "J.P. Morgan": 1,
+            "Alphabet": 1,
+            "Google": 1
+        }
+    },
+    "Altman Solon": {
+        "mentions": 1,
+        "articles": [
+            "article3.txt"
+        ],
+        "events": {},
+        "sentiments": {
+            "positive": 1
+        },
+        "co_companies": {
+            "SpaceX": 1,
+            "Anthropic": 1,
+            "Reuters": 1,
+            "J.P. Morgan": 1,
+            "Alphabet": 1,
+            "Google": 1
+        }
+    },
+    "J.P. Morgan": {
+        "mentions": 1,
+        "articles": [
+            "article3.txt"
+        ],
+        "events": {},
+        "sentiments": {
+            "positive": 1
+        },
+        "co_companies": {
+            "SpaceX": 1,
+            "Anthropic": 1,
+            "Reuters": 1,
+            "Altman Solon": 1,
+            "Alphabet": 1,
+            "Google": 1
+        }
+    },
+    "Alphabet": {
+        "mentions": 1,
+        "articles": [
+            "article3.txt"
+        ],
+        "events": {},
+        "sentiments": {
+            "positive": 1
+        },
+        "co_companies": {
+            "SpaceX": 1,
+            "Anthropic": 1,
+            "Reuters": 1,
+            "Altman Solon": 1,
+            "J.P. Morgan": 1,
+            "Google": 1
+        }
+    },
+    "Volkswagen": {
+        "mentions": 1,
+        "articles": [
+            "article4.txt"
+        ],
+        "events": {
+            "Restructuring": 1,
+            "Manufacturing": 1,
+            "Macroeconomic Impact": 1
+        },
+        "sentiments": {
+            "negative": 1
+        },
+        "co_companies": {
+            "Audi": 1
+        }
+    },
+    "Audi": {
+        "mentions": 1,
+        "articles": [
+            "article4.txt"
+        ],
+        "events": {
+            "Restructuring": 1,
+            "Manufacturing": 1,
+            "Macroeconomic Impact": 1
+        },
+        "sentiments": {
+            "negative": 1
+        },
+        "co_companies": {
+            "Volkswagen": 1
+        }
+    }
+}

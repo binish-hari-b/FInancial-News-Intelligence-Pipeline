@@ -1,0 +1,274 @@
+[
+    {
+        "index": 0,
+        "filename": "article1.txt",
+        "text": "Apple sues OpenAI, two former employees for trade secrets theft\n\n Apple (AAPL.O), opens new tab on Friday sued OpenAI and two former employees, alleging misappropriation of its trade secrets to ​benefit the ChatGPT-owner's foray into consumer hardware, a dramatic escalation of already simmering tension between the two companies.\nThe complaint accuses OpenAI of orchestrating a broad effort to systematically acquire and exploit Apple's ‌confidential information through former employees, recruiting practices and supplier relationships to accelerate its push into the consumer hardware business.\n\n\"We have no interest in other companies’ trade secrets,\" OpenAI said in a statement. \"We remain focused on building innovative technology that empowers people everywhere.”\nThe lawsuit sets up a battle over who will control future AI devices that may not use traditional apps or operating systems — devices which, if successful, would direct consumer attention away from Apple's best-selling iPhone. Analysts believe OpenAI is working on a phone or other device of its own.\nTensions between ​the two tech companies have strained their relationship, as the race to develop AI products has intensified competition for talent and proprietary technology.\n\n\"Apple sees OpenAI moving from partner to potential rival, while OpenAI is trying ​to reduce its dependence on the iPhone and build a direct relationship with consumers,\" said PP Foresight analyst Paolo Pescatore. \"Even if the allegations are not proven, the lawsuit could ⁠delay OpenAI’s hardware ambitions and further weaken what is already becoming an increasingly fragile partnership.\"\nApple's lawsuit, which was filed in the U.S. District Court for the Northern District of California, comes just after OpenAI successfully fended off a legal ​challenge from Elon Musk's xAI.\nThe two former Apple employees named in the suit are Chang Liu, a former senior system electrical engineer, and former vice president of product design for iPhone and Apple Watch, Tang Yew Tan. Neither immediately ​responded to a request for comment.\n\nApple alleged that Liu failed to return a company-issued work laptop and later used an authentication bug to access Apple's internal network, downloading \"dozens of Apple's confidential hardware-related files.\"\nThe iPhone maker also claimed that OpenAI’s hardware chief Tan had been \"methodically using Apple’s confidential information to benefit OpenAI\" before his departure by emailing himself information about Apple suppliers and internal industry summaries. Tan worked on the iPhone for most of his 24-year tenure at Apple, according to his LinkedIn page.\nApple alleged that Tan encouraged Apple employees ​to bring parts from Apple to job interviews at OpenAI for “show and tell” sessions, citing an incident in its filing where one OpenAI job candidate allegedly said that he “didn’t even know we could take those from the office.”\nOpenAI ​Foundation, OpenAI Group PBC, the company's commercial arm, and io Products, which OpenAI acquired, were also named as defendants.\n\nIn its complaint, Apple claimed it wrote to OpenAI in February with concerns that its confidential information was making its way to OpenAI ‌and asking to ⁠discuss the matter, but it received no reply.\nMore than 400 former Apple employees now work for OpenAI, it said in its filing, adding that “it is not surprising” that some of them have knowledge of its confidential information.\n“That OpenAI now employs people who were once entrusted with Apple’s trade secrets does not entitle OpenAI to use that information to jumpstart its hardware efforts,” the iPhone maker wrote in its complaint.\nApple also alleged that OpenAI employees sought confidential information from Apple suppliers, at one point allegedly having one of those suppliers carry out what Apple called a secret metal finishing technique on the belief that OpenAI had Apple’s permission to use the technique.\nMark Lemley, a professor at Stanford Law School, ​said that Apple's complaint \"has the potential to be a ​very big case\" but that some of what Apple ⁠alleges, such as OpenAI's hiring of hundreds of Apple employees, is not illegal in California, where Silicon Valley sprang up in part thanks to state laws that allow employees leave for a competitor.\n\"But if Apple's claims that the employees took confidential documents with them — and that OpenAI is using those documents — are true, that is a problem for OpenAI,\" Lemley ​said.\nCamilla Hrdy, a law professor at Rutgers Law School, said the case could become complex because most of the previous cases around AI and trade secrets have involved ​software rather than hardware.\n\"These trade secret ⁠lawsuits are frequently brought in the tech space, and we usually learn much, much more as the case develops. OpenAI is not a defendant that can’t afford to defend itself,\" Hrdy said.\nSIMMERING TENSION\nA person familiar with the matter told Reuters in May that OpenAI was exploring legal options against Apple, including notifying the technology giant of a breach of contract but potentially not filing a full lawsuit.\nIn 2024, Apple announced the integration of its Apple Intelligence technology across its apps including Siri and ⁠brought OpenAI's chatbot ​ChatGPT to its devices.\nTheir partnership allows users to access ChatGPT results through Siri, while iPhone users can also sign up for ChatGPT memberships ​directly from the iOS settings menu.\nApple rolled out a long-delayed overhaul of Siri last month. The update comes two years after Apple first promised major upgrades that were repeatedly delayed.\nOpenAI bought hardware startup io Products, founded by former Apple designer Jony Ive, last year in a $6.5 billion deal, in ​a push to move beyond software into consumer hardware. Ive is not named in the lawsuit.",
+        "entities": [
+            {
+                "text": "Apple",
+                "label": "Company"
+            },
+            {
+                "text": "OpenAI",
+                "label": "Company"
+            },
+            {
+                "text": "AI",
+                "label": "Technology"
+            },
+            {
+                "text": "operating systems",
+                "label": "Technology"
+            },
+            {
+                "text": "iPhone",
+                "label": "Product"
+            },
+            {
+                "text": "PP Foresight",
+                "label": "Company"
+            },
+            {
+                "text": "Paolo Pescatore",
+                "label": "Person"
+            },
+            {
+                "text": "Elon Musk",
+                "label": "Person"
+            },
+            {
+                "text": "xAI",
+                "label": "Organization"
+            },
+            {
+                "text": "Chang Liu",
+                "label": "Person"
+            },
+            {
+                "text": "Tang Yew Tan",
+                "label": "Person"
+            }
+        ],
+        "event_labels": [
+            "Lawsuit"
+        ],
+        "confidence_score": [
+            0.9914886951446533
+        ],
+        "sentiment": "negative",
+        "sentiment_score": 0.8686351776123047
+    },
+    {
+        "index": 1,
+        "filename": "article2.txt",
+        "text": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds\n\nA new AI detection tool ​from Meta (META.O), opens new tab, which the tech company previewed this week alongside the launch of its image-generation model, Muse ‌Image, failed to identify some of its own AI-generated images once they were cropped, according to a Reuters analysis.\nThe finding highlights the challenges of verifying AI-generated images after common alterations, a limitation that could make it harder to identify deepfakes online during a busy election year that ​includes the U.S. midterms.\n\nIn an analysis of 40 images generated using Muse Image, Reuters found the detection ​tool verified all of the original AI-generated images but failed to verify 55% of ⁠the same images after they were cropped to approximately one-third to one-half of their original size.\nOn its website, opens new tab, Meta says ​the preview detection tool can identify its own AI-generated images, even if they are cropped, through an invisible watermarking ​system called Content Seal, which is embedded in every image generated by Muse Image and designed to help users verify whether it was created by Meta's AI models.\nWhen asked about the results of the Reuters analysis of the detection tool, Meta noted that ​the tool was a preview. The company said the watermark is designed to remain intact after common edits, but ​that the signal may be lost if an image is heavily cropped.\n\nRival tech companies Google and OpenAI have cautioned that their own detection ‌tools ⁠are not foolproof against image-alteration techniques.\nIn March, Meta's Oversight Board, a body of experts that makes binding decisions and issues recommendations on content issues across the company's social media platforms, called on the company, opens new tab to do more to address the \"proliferation of deceptive AI-generated content\" on its platforms and invest in stronger detection tools.\nSiwei Lyu, a computer science professor at the State ​University of New York ​at Buffalo who researches AI ⁠image forensics, said he had not evaluated Meta's tool but that watermark-based systems have limitations.\n\"Watermark-based methods can be highly effective when the watermark remains intact, but any modification ​that removes or weakens the embedded signal — such as cropping, resizing, heavy compression, or ​editing — may reduce ⁠their effectiveness, depending on how the watermark is designed,\" Lyu said.\nSarah Barrington, an AI researcher and Ph.D. candidate at the UC Berkeley School of Information, said watermarking holds promise for the future of AI-generated content, but could only do so much.\n“Like many preventive cybersecurity ⁠or ​physical security measures, it may not be fully watertight, but even if ​we catch only 90% of cases, that’s still a great leap from 0,” she said.",
+        "entities": [
+            {
+                "text": "Meta",
+                "label": "Company"
+            },
+            {
+                "text": "AI",
+                "label": "Technology"
+            },
+            {
+                "text": "Reuters",
+                "label": "Company"
+            },
+            {
+                "text": "Muse",
+                "label": "Product"
+            },
+            {
+                "text": "U.S.",
+                "label": "Country"
+            },
+            {
+                "text": "Muse Image",
+                "label": "Product"
+            },
+            {
+                "text": "Content Seal",
+                "label": "Product"
+            },
+            {
+                "text": "Google",
+                "label": "Company"
+            },
+            {
+                "text": "OpenAI",
+                "label": "Company"
+            },
+            {
+                "text": "Siwei Lyu",
+                "label": "Person"
+            },
+            {
+                "text": "University of New York",
+                "label": "Organization"
+            },
+            {
+                "text": "Buffalo",
+                "label": "City"
+            }
+        ],
+        "event_labels": [
+            "Research"
+        ],
+        "confidence_score": [
+            0.4858436584472656
+        ],
+        "sentiment": "negative",
+        "sentiment_score": 0.601494550704956
+    },
+    {
+        "index": 2,
+        "filename": "article3.txt",
+        "text": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space\n\nElon Musk may have pitched ​a future where space powers AI, but Wall Street analysts say SpaceX's near-term value remains firmly tethered to Earth, where it ‌is building out the infrastructure underpinning the AI boom.\nInfrastructure providers, particularly data centers, are poised to be among the biggest beneficiaries of the AI boom as businesses and consumers rapidly adopt the technology for applications ranging from software coding and robotics to everyday tasks such as shopping and planning.\n\nSpaceX, a major AI player, has already started monetizing compute by striking ​deals with enterprise customers, including Anthropic, for its Colossus supercomputer clusters. In contrast, its orbital AI plan remains a longer-term opportunity that depends on ​the introduction of Starship rockets, lower launch costs and technological advances.\nCompany filings analyzed by Reuters and commentary from research ⁠houses show that revenue from its latest compute contracts is set to far exceed sales from other segments this year.\n\"The narrative that (orbital) will fundamentally disrupt terrestrial ​data centers is a little bit overblown. Any kind of displacement of terrestrial data centers is 10 years plus out,\" said Anthony Milovantsev, a partner at consultancy ​firm Altman Solon.\n\nJ.P. Morgan expects SpaceX to expand terrestrial AI compute capacity to about 9 gigawatts by 2029 - roughly equivalent to four times the power generated by the Hoover Dam.\n\"Beyond 2029, we expect SpaceX to pivot to orbital compute for incremental capacity additions, while continuing to operate and maintain its terrestrial compute clusters,\" the brokerage said.\n\nTERRESTRIAL COMPUTE BEGINS TO ​PAY OFF\nSpaceX's deals with Anthropic, Alphabet's (GOOGL.O), opens new tab Google and Reflection AI for its Colossus compute facilities are expected to generate more than $28 billion in annual revenue.\nThat ​figure far exceeds SpaceX's 2025 AI revenue of about $3.2 billion and surpasses revenue from its launch and Starlink connectivity businesses individually, according to Reuters calculations.\nAnalysts cautioned that the contracts ‌contain termination ⁠provisions and should not be viewed as guaranteed long-term recurring revenue.\nSpaceX invested nearly $18 billion in AI infrastructure and development in 2025, including about $12.7 billion in AI-related capital expenditure and $5.1 billion in AI research and development, dwarfing spending on its space and connectivity businesses, according to company filings analyzed by Reuters.\n\nORBITAL AI REMAINS A LONG-TERM BET\nMost brokerages that initiated coverage of SpaceX following ​its IPO are treating orbital AI as a longer-term opportunity, while basing their near-term financial forecasts around terrestrial ​AI infrastructure.\n\n\"We view the ⁠long-term viability of orbital data centers as unproven and highly dependent on key technological milestones that have yet to be fully realized,\" BofA analysts said in a note.\nAnalysts broadly expect terrestrial compute to drive SpaceX's growth and earnings for the rest of the decade, with orbital AI dependent on Starship achieving rapid reusability, lower launch ⁠costs and ​advances in satellite engineering.\nMost say that Starship may eventually help deploy solar-powered computing satellites that ​could reduce costs associated with energy, cooling and land - some of the bugbears of terrestrial data centers.\nThe debate, analysts say, is no longer about SpaceX's ability to build and monetize AI infrastructure. Rather, ​it is more about how quickly it turns that opportunity into a viable business beyond Earth's atmosphere.",
+        "entities": [
+            {
+                "text": "SpaceX",
+                "label": "Company"
+            },
+            {
+                "text": "AI",
+                "label": "Technology"
+            },
+            {
+                "text": "Elon Musk",
+                "label": "Person"
+            },
+            {
+                "text": "Wall Street",
+                "label": "Organization"
+            },
+            {
+                "text": "software coding",
+                "label": "Technology"
+            },
+            {
+                "text": "robotics",
+                "label": "Technology"
+            },
+            {
+                "text": "Anthropic",
+                "label": "Company"
+            },
+            {
+                "text": "Colossus",
+                "label": "Product"
+            },
+            {
+                "text": "Starship",
+                "label": "Product"
+            },
+            {
+                "text": "Reuters",
+                "label": "Company"
+            },
+            {
+                "text": "Anthony Milovantsev",
+                "label": "Person"
+            },
+            {
+                "text": "Altman Solon",
+                "label": "Company"
+            },
+            {
+                "text": "J.P. Morgan",
+                "label": "Company"
+            },
+            {
+                "text": "Alphabet",
+                "label": "Company"
+            },
+            {
+                "text": "Google",
+                "label": "Company"
+            },
+            {
+                "text": "Colossus",
+                "label": "Technology"
+            },
+            {
+                "text": "$28 billion",
+                "label": "Currency"
+            },
+            {
+                "text": "$3.2 billion",
+                "label": "Currency"
+            },
+            {
+                "text": "Starlink",
+                "label": "Product"
+            }
+        ],
+        "event_labels": [],
+        "confidence_score": [],
+        "sentiment": "positive",
+        "sentiment_score": 0.6782526969909668
+    },
+    {
+        "index": 3,
+        "filename": "article4.txt",
+        "text": "Volkswagen to cut capacity, model lineup as it tries to tackle a historic crisis\n\nVolkswagen plans to ​drastically cut its model lineup and further pare back capacity, as Europe's largest automaker considers a far-reaching overhaul that sources say could cost around 100,000 jobs.\nVolkswagen is under unprecedented pressure to restructure ‌the business model that underpinned its success for decades, as it grapples with high costs and excess capacity at home. Those factors, along with rising Chinese competition, regulation, and U.S. import tariffs, have sliced its profit margins in half between 2021 and 2025.\n\nThe company said on Thursday following a supervisory board meeting that its lineup would be gradually cut by up to half, as it concentrates on the most attractive market segments. Production capacity will be reduced to nine million ​vehicles per year, down from 10 million currently.\n\"The global situation has continued to deteriorate over the past twelve months,\" Volkswagen CEO Oliver Blume said. \"That is why we are ​acting now.\"\nSources have said Blume is considering closing four German plants — Hanover, Emden, Zwickau and Audi's Neckarsulm site — and cutting up to 100,000 jobs, ⁠roughly double the number currently planned, in what would be Volkswagen's biggest restructuring yet.\n\nVolkswagen did not provide specifics on what sources have said about potential job cuts and factory closures, which drew massive ​worker protests across company sites on Thursday.\nThe prospect of plant closures and deep job cuts at one of Germany's most storied companies, founded 89 years ago, exemplifies the challenges Europe's largest economy ​faces as it struggles with weak growth and high labour and energy costs.\nSo-called offering complexity, including the number of equipment options, will be cut by up to 75%.\n\nNO WORD ON JOB-CUT SPECULATION\n\nAt the board meeting at Volkswagen's headquarters in Wolfsburg on Thursday, Blume faced the committee's powerful labour representatives, who oppose deeper cuts across the group, which includes the Audi and Porsche (P911_p.DE), opens new tab brands.\nHe is also under pressure from the Porsche and Piech owner families (PSHG_p.DE), opens new tab, whose core investments ​have lost tens of billions of euros in market value in recent years. Volkswagen shares have lost more than half their value in the last three years.\n\nIn Wolfsburg, workers blew whistles, waved ​red union flags and marched behind a banner reading \"gemeinsam stark\" — \"strong together\" — as a klaxon sounded in the background.\nThe IG Metall union said around 400 people were demonstrating in Wolfsburg, with union representative Thorsten Groeger warning ‌the company risked ⁠a \"major conflict\" with workers.\n\nDaniela Cavallo, the head of the company's works council, which represents employees, said staff were not to blame for the sector's crisis, and \"great fear and deep uncertainty\" were spreading across company factories and offices.\nVolkswagen's works council called on Blume to address speculation around job cuts and plant closures by a Friday deadline, warning of further extraordinary staff meetings in the months ahead if he did not.\n\"Not a word about production, not a word about employment,\" said German automotive industry analyst Ferdinand Dudenhoeffer. \"One could also say that uncertainty remains – which is not good for customers, employees ​and investors.\"\n\nVolkswagen faced mass strikes in December 2024, ​but there is currently an agreement for ⁠workers not to take industrial action while existing work contracts are in force.\n\nThe company's supervisory board includes representatives of the owner families, unions and the Lower Saxony state government, a power-sharing structure that often complicates decision-making.\n\nCAR PLANTS EXPECTED TO CUT OUTPUT\n\nUnder Blume's last restructuring deal, unions secured a commitment from management ​to avoid German plant closures, prompting Volkswagen to seek alternative uses for underutilised sites.\n\nThose efforts include a long-running search for a defence-sector partner ​for the Osnabrueck factory and ⁠the possibility of producing models designed for the Chinese market in Germany.\n\nMobility Global data seen by Reuters estimates the group's German car plants will operate at 81% of standard capacity in 2026. \n\nThat figure is expected to fall to 73% by the end of the decade, even after the anticipated removal of Osnabrueck from the network.\n\nAmong the four sites threatened with closure, Zwickau is forecast to have the highest utilisation ⁠rate in ​2026 at 88%, which is expected to fall to 42% by 2030, the data showed.\n\nConservative Chancellor Friedrich Merz, currently ​trailing in polls to the far-right Alternative for Germany, has promised a series of reforms to make Germany more competitive.\n\nThe AfD, which could take power in a German state for the first time in elections in September, has seized on Volkswagen's ​troubles as a line of attack against the government.",
+        "entities": [
+            {
+                "text": "Volkswagen",
+                "label": "Company"
+            },
+            {
+                "text": "Europe",
+                "label": "Country"
+            },
+            {
+                "text": "U.S.",
+                "label": "Country"
+            },
+            {
+                "text": "Oliver Blume",
+                "label": "Person"
+            },
+            {
+                "text": "Hanover",
+                "label": "City"
+            },
+            {
+                "text": "Emden",
+                "label": "City"
+            },
+            {
+                "text": "Zwickau",
+                "label": "City"
+            },
+            {
+                "text": "Audi",
+                "label": "Company"
+            },
+            {
+                "text": "Neckarsulm",
+                "label": "City"
+            },
+            {
+                "text": "Germany",
+                "label": "Country"
+            },
+            {
+                "text": "Wolfsburg",
+                "label": "City"
+            }
+        ],
+        "event_labels": [
+            "Restructuring",
+            "Manufacturing",
+            "Macroeconomic Impact"
+        ],
+        "confidence_score": [
+            0.998475193977356,
+            0.793105959892273,
+            0.7476159334182739
+        ],
+        "sentiment": "negative",
+        "sentiment_score": 0.9691110849380493
+    }
+]
