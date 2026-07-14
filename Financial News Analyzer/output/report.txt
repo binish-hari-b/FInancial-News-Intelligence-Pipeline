@@ -1,0 +1,36 @@
+
+        FINAL ANALYTICS REPORT
+
+
+        The mentioned companies are:
+
+      - OpenAI: 2 mentions
+      - Reuters: 2 mentions
+      - Google: 2 mentions
+      - Apple: 1 mentions
+      - PP Foresight: 1 mentions
+      - Meta: 1 mentions
+      - SpaceX: 1 mentions
+      - Anthropic: 1 mentions
+      - Altman Solon: 1 mentions
+      - J.P. Morgan: 1 mentions
+      - Alphabet: 1 mentions
+      - Volkswagen: 1 mentions
+      - Audi: 1 mentions
+
+
+        Overall Event Distribution:
+
+      - Research: 4 mentions
+      - Lawsuit: 3 mentions
+      - Restructuring: 2 mentions
+      - Manufacturing: 2 mentions
+      - Macroeconomic Impact: 2 mentions
+
+        SENTIMENT:
+        Positive: 7
+        Neutral : 0
+        Negative: 9
+
+
+
