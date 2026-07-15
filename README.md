@@ -2,9 +2,9 @@
 
 ## Overview
 
-Financial News Intelligence Pipeline is an end-to-end Natural Language Processing system that transforms unstructured financial news articles into structured business intelligence. The pipeline automatically extracts named entities, detects corporate events, performs financial sentiment analysis, aggregates company-level information, and generates analytical reports from a collection of financial news articles.
+Financial News Intelligence Pipeline is an end-to-end Natural Language Processing system that transforms unstructured financial news articles into structured business intelligence. The pipeline automatically extracts named entities, identifies corporate events, performs financial sentiment analysis, aggregates company-level information, and generates analytical reports from a collection of financial news articles.
 
-The project demonstrates how multiple pretrained language models can be integrated into a unified workflow for processing and analyzing financial news.
+The project demonstrates how multiple pretrained language models can be integrated into a single workflow for processing and analyzing financial news while producing structured outputs suitable for downstream analytics.
 
 ---
 
@@ -13,9 +13,11 @@ The project demonstrates how multiple pretrained language models can be integrat
 The pipeline provides the following functionality.
 
 * Batch processing of financial news articles stored as text files.
+* Configurable input and output directories through a `config.yaml` file.
 * Named Entity Recognition using GLiNER.
 * Zero-shot corporate event classification using ModernBERT.
 * Financial sentiment analysis using FinBERT.
+* Company name normalization to consolidate naming variations such as "Apple", "Apple Inc.", and "Apple Incorporated".
 * Company-level information aggregation.
 * Automatic analytics report generation.
 * Export of structured JSON outputs.
@@ -28,10 +30,16 @@ The pipeline provides the following functionality.
 Financial News Articles (.txt)
             │
             ▼
+Configuration Loading (config.yaml)
+            │
+            ▼
 Document Loading
             │
             ▼
 Named Entity Recognition
+            │
+            ▼
+Company Name Normalization
             │
             ▼
 Corporate Event Classification
@@ -140,6 +148,38 @@ Each article is classified as Positive, Negative, or Neutral together with a con
 
 ---
 
+## Configuration
+
+The pipeline uses a `config.yaml` file to configure input and output directories without requiring any changes to the source code.
+
+Example
+
+```yaml
+input_folder: data
+output_folder: output
+```
+
+This makes the project portable across different operating systems and directory structures.
+
+---
+
+## Company Name Normalization
+
+Financial news articles frequently refer to the same organization using different naming conventions.
+
+Examples include
+
+```text
+Apple
+Apple Inc.
+Apple Incorporated
+Apple Computer
+```
+
+Before aggregation, company names are normalized into a canonical representation. This prevents duplicate company records and inflated mention counts, resulting in more accurate analytics and company statistics.
+
+---
+
 ## Company Information Database
 
 Information extracted from every article is aggregated into a company-level knowledge base.
@@ -220,6 +260,8 @@ Negative .......... 23
 Financial-News-Intelligence-Pipeline/
 
 │
+├── config.yaml
+│
 ├── data/
 │   ├── article1.txt
 │   ├── article2.txt
@@ -272,7 +314,7 @@ Contains a human-readable analytics report summarizing the processed news corpus
 Clone the repository.
 
 ```bash
-git clone https://github.com/binish-hari-b/FInancial-News-Intelligence-Pipeline.git
+git clone https://github.com/binish-hari-b/Financial-News-Intelligence-Pipeline.git
 
 cd Financial-News-Intelligence-Pipeline
 ```
@@ -280,7 +322,7 @@ cd Financial-News-Intelligence-Pipeline
 Install the required dependencies.
 
 ```bash
-pip install torch transformers gliner accelerate sentencepiece
+pip install torch transformers gliner accelerate sentencepiece pyyaml
 ```
 
 The required pretrained models are downloaded automatically during the first execution of the pipeline.
@@ -295,7 +337,9 @@ ProsusAI/finbert
 
 ## Usage
 
-Place all financial news articles inside the `data` directory.
+Configure the input and output directories in `config.yaml`.
+
+Place the financial news articles inside the configured input directory.
 
 Run the pipeline.
 
@@ -303,7 +347,7 @@ Run the pipeline.
 python main.py
 ```
 
-The generated outputs are saved in the `output` directory.
+The processed outputs will be written to the configured output directory.
 
 ---
 
@@ -321,6 +365,8 @@ ModernBERT
 
 FinBERT
 
+PyYAML
+
 pathlib
 
 collections.Counter
@@ -333,11 +379,7 @@ Interactive dashboard for data visualization.
 
 Semantic search over financial news articles.
 
-Knowledge graph construction from extracted entities.
-
 Automatic article summarization.
-
-Time-series trend analysis.
 
 Relationship extraction between companies and people.
 
